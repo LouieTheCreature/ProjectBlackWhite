@@ -2,10 +2,10 @@
     "status": "ok",
     "LatestAppInfo": {
         "LatestInternalBuild": "14",
-        "LatestBetaBuild": "15",
+        "LatestBetaBuild": "16",
         "LatestPublicBuild": "10000",
         "LatestInternalVersion": "1.0_build14",
-        "LatestBetaVersion": "1.0_build15",
+        "LatestBetaVersion": "1.0_build16",
         "LatestPublicVersion": "1.0",
         "MinimumBuild": "10"
     },
