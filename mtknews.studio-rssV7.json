@@ -1,13 +1,13 @@
 ﻿{
     "status": "ok",
     "LatestAppInfo": {
-        "LatestInternalBuild": "18",
-        "LatestBetaBuild": "15",
+        "LatestInternalBuild": "17",
+        "LatestBetaBuild": "18",
         "LatestPublicBuild": "10000",
-        "LatestInternalVersion": "1.0_build18",
-        "LatestBetaVersion": "1.0_build15",
+        "LatestInternalVersion": "1.0_build17",
+        "LatestBetaVersion": "1.0_build18",
         "LatestPublicVersion": "1.0",
-        "MinimumBuild": "13"
+        "MinimumBuild": "15"
     },
     "CustomMessages":{
         "ContactUs": "Have something you want to ask or say? Don’t be afraid. You can reach us at mtknewsss@gmail.com. Note: Currently only one person monitors this email.\nIf Email is not an option or you just Don’t like emails, A great alternative is to DM us over on twitter @MTKnews\nIf you are interested in joining the team, Please visit our Join Us page.",
