@@ -135,7 +135,7 @@
             "picture": "http://mtknews.studio/content/images/2022/06/8kvlHHTq_400x400--1-.jpg"
         },
         {
-            "name": "Levi Richardson" ,
+            "name": "Levi" ,
             "ProfileName": "Levi",
             "Role": "Chief Technology Officer, Developer and Journalist",
             "picture": "http://mtknews.studio/content/images/2022/05/me.jpg"
@@ -147,15 +147,15 @@
             "picture": "http://mtknews.studio/content/images/2022/07/no-profile-pic-icon-26-2.jpg"
         },
         {
-            "name": "Louie" ,
+            "name": "LouieTheCreature" ,
             "ProfileName": "LouieTheCreature",
-            "Role": "Android App Developer and Journalist",
+            "Role": "App Developer and Journalist",
             "picture": "http://mtknews.studio/content/images/2022/04/1000_F_218537567_Z4W3By4FP4VTi8ncqA0Uv1RiGdcuKWnk.jpg"
         },
         {
             "name": "Leo Tran" ,
             "ProfileName": "Leo Tran",
-            "Role": "Chief Meteorologist and Journalist",
+            "Role": "Lead Meteorologist and Journalist",
             "picture": "http://mtknews.studio/content/images/2022/07/no-profile-pic-icon-26-2.jpg"
         },
         {
@@ -163,12 +163,6 @@
             "ProfileName": "Marcelo Sheining",
             "Role": "Editor and Journalist",
             "picture": "http://mtknews.studio/content/images/2022/08/3733962A-29FA-43CF-A1A1-1F4562F5F7B7.jpeg"
-        },
-        {
-            "name": "Rylie Carlson" ,
-            "ProfileName": "Rylie Carlson",
-            "Role": "Journalist",
-            "picture": "http://mtknews.studio/content/images/2022/01/6B8625B9-1371-4B66-9476-7F43B3C4E42D.png"
         },
         {
             "name": "Long Hoang Nguyen" ,
@@ -181,18 +175,6 @@
             "ProfileName": "Jacob Macflee",
             "Role": "Journalist",
             "picture": "http://mtknews.studio/content/images/2022/07/OIP.jpg"
-        },
-        {
-            "name": "Gabriel Lupe" ,
-            "ProfileName": "Advisor",
-            "Role": "Advisor",
-            "picture": "http://mtknews.studio/content/images/2022/07/no-profile-pic-icon-26-2-1.jpg"
-        },
-        {
-            "name": "Wyatt Dobson" ,
-            "ProfileName": "Secondary Advisor",
-            "Role": "Secondary Advisor",
-            "picture": "http://mtknews.studio/content/images/2022/07/no-profile-pic-icon-26-2-1.jpg"
         }
     ],
     "items": [
