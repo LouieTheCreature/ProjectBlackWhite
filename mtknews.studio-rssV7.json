@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "LatestAppInfo": {
-    "LatestInternalBuild": "30",
+    "LatestInternalBuild": "31",
     "LatestInternalBuildNotes": "<p>Internal , @louie_creature confidential</p>",
     "LatestInternalBuildLink": "",
     "LatestBetaBuild": "29",
@@ -10,7 +10,7 @@
     "LatestPublicBuild": "10000",
     "LatestPublicBuildLink": "",
     "LatestPublicBuildNotes 2": "<p>Unreleased</p>",
-    "LatestInternalVersion": "1.0_build27",
+    "LatestInternalVersion": "1.0_build30",
     "LatestBetaVersion": "1.0, Beta 2.0.1",
     "LatestPublicVersion": "1.0",
     "MinimumBuild": "25"
@@ -211,7 +211,7 @@
       "name": "Trey Massey",
       "ProfileName": "Trey Massey",
       "Role": "Journalist",
-      "picture": "https://pbs.twimg.com/profile_images/1568649625086660611/RsJXt9iU_400x400.jpg"
+      "picture": "http://mtknews.studio/content/images/2022/08/B7AD0C22-983A-41ED-A31E-79DE492CC98D.jpeg"
     },
     {
       "name": "Long Hoang Nguyen",
@@ -227,6 +227,47 @@
     }
   ],
   "items": [
+    {
+      "title": "Google is revamping security and privacy",
+      "pubDate": "2022-10-06 00:00:00",
+      "link": "https://mtknews.studio/google-taking-privicy/",
+      "guid": "hhe88#8#8#828288282",
+      "authors": [
+        "Sam Thibault"
+      ],
+      "thumbnail": "https://mtknews.studio/content/images/size/w2000/2022/10/zZqC5yHCdhWYShJVMDkGek.png",
+      "description": "\n<blockquote>This article doesn't support this version of the app, please update to the latest version.</blockquote>\n",
+      "content": "\n<blockquote>This article doesn't support this version of the app, please update to the latest version.</blockquote>\n",
+      "ArticleBody": [
+        {
+          "type": "Google is taking new steps to ensure that users are protected 24/7, Apple has been making privacy and security a  big part of its recent marketing, and it's no surprise that Google is wanting to do the same.",
+          "content": "According to some reports, YouTube might make watching content in 4k exclusive only to premium subscribers. Multiple Reddit and Twitter users have started noticing that the option to watch 4k videos on the free version of YouTube has disappeared."
+        },
+        {
+          "type": "paragraph",
+          "content": "Google states that the Pixel 7 and 7 Pro will be protected by the Titan M2 chip and will also receive 5 years of security updates."
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/size/w1000/2022/10/cfYpvPue2zEDLk3SgZTYSU.png"
+        },
+        {
+          "type": "paragraph",
+          "content": "Google has also introduced a new privacy and security hub that will allow users to see if their information is being shared. this new security hub will be exclusive to Pixel phones at first but will slowly move out to every other androidphone brand."
+        },
+        {
+          "type": "paragraph",
+          "content": "The Google Pixel 7 and Google Pixel 7 Pro will also be the first Google phones to come with a built-in VPN for the full security experience all in one place."
+        }
+      ],
+      "enclosure": {
+        "link": "https://mtknews.studio/content/images/size/w2000/2022/10/zZqC5yHCdhWYShJVMDkGek.png",
+        "credits": "Credit: Google"
+      },
+      "categories": [
+        "Technology"
+      ]
+    },
     {
       "title": "YouTube may start forcing you to pay for premium to watch 4k content.",
       "pubDate": "2022-10-03 00:00:00",
