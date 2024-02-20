@@ -1,0 +1,359 @@
+{
+  "status": "ok",
+  "LatestAppInfo": {
+    "LatestInternalBuild": "41",
+    "LatestInternalBuildNotes": "<p>Internal , @louie_creature confidential</p>",
+    "LatestInternalBuildLink": "",
+    "LatestBetaBuild": "45",
+    "LatestBetaBuildLink": "https://github.com/LouieTheCreature/MTKNews_Android/releases/tag/v1.0_build37",
+    "LatestBetaBuildNotes": "<h2>What's new</h2>\n\n<blockquote ><p>1- Redesigned the Team page , it not only looks nicer now but it'll also be updated from the JSON file instead of being hardcoded in the code.<br>\n2- Redesigned the Contact Us page to include a better layout and the ability to view the twitter page directly from the app.<br>\n3- The tags in the home screen will now slightly change color when clicked.<br>\n4- Navigation button optimization has been extended to the About and Team pages.</p>\n\n</blockquote><h2>Known Issues</h2>\n\n<blockquote ><p>1- Even though search is more accurate now, it's (still) buggy and unstable.<br>\n2- (IMPORTANT) This app has severe rendering issues on devices running Android 8 and Android 8.1 which may cause Android 8 support in the future if a fix is not released in the next builds<br>\n3- The enable animations setting still doesn't work</p>\n\n</blockquote>",
+    "LatestPublicBuild": "47",
+    "LatestPublicBuildLink": "https://github.com/LouieTheCreature/MTKNews_Android/releases/tag/v2.0.1",
+    "LatestPublicBuildNotes 2": "<p>Unreleased</p>",
+    "LatestInternalVersion": "INTERNAL",
+    "LatestBetaVersion": "2.0-Beta2 (Rev 2)",
+    "LatestPublicVersion": "2.0.1",
+    "MinimumBuild": "28"
+  },
+  "CustomMessages": {
+    "ContactUs": "Have something you want to ask or say? Don’t be afraid. You can reach us at mtknewsss@gmail.com. Note: Currently only one person monitors this email.\nIf Email is not an option or you just Don’t like emails, A great alternative is to DM us over on twitter @MTKnews\nIf you are interested in joining the team, Please visit our Join Us page.",
+    "JoinUs": "Want to join MTK News? We're always looking to expand our team, and we would be thrilled to have you! In order to apply as a writer, please complete and submit the application embedded below, and we promise to get back to you soon. Don't want to be a writer? Contact us if you were looking for another specific role, or if you would like to know about any roles that we're looking to fill. Thank you.",
+    "ApplicationButtonTitle": "Application | Jotform*",
+    "ApplicationButtonWarning": "*This button will take you to an external website",
+    "ApplicationLink": "https://form.jotform.com/221673672274056"
+  },
+  "feed": {
+    "url": "https://mtknews.studio/rss",
+    "title": "MTK News",
+    "link": "http://mtknews.cluster.ws/",
+    "author": "",
+    "description": "MTK News",
+    "image": "http://mtknews.studio/favicon.png"
+  },
+  "TeamMembers": [
+    {
+      "name": "Louie",
+      "ProfileName": "Louie",
+      "Role": "Founder",
+      "picture": "https://alythic.com/content/images/2024/02/IMG_4418.jpeg",
+      "bio": "(they/he) Founder of Alythic | Professional Idiot | Management Member"
+    },
+    {
+      "name": "Sarah Apple Royalwater",
+      "ProfileName": "Sarah Apple Royalwater",
+      "Role": "Co-founder",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Gvi_vsZKIBWMbuTLs8Qmm_zwJZNkpHZh5og2CySpUg8Nybo07HXYTUE-Zi5Xmcnh1b0&usqp=CAU",
+      "bio": "(they/them/he/him) Co-founder of Alythic | Management Member"
+    },
+    {
+      "name": "Louie",
+      "ProfileName": "Louie",
+      "Role": "Founder",
+      "picture": "https://alythic.com/content/images/2024/02/IMG_4418.jpeg",
+      "bio": "(they/he) Founder of Alythic | Professional Idiot | Management Member"
+    },
+    {
+      "name": "Dias",
+      "ProfileName": "Dias",
+      "Role": "Management Member",
+      "picture": "https://alythic.com/content/images/2024/01/Frame-3ijbol.png",
+      "bio": "(he/him) Design God | Management Member"
+    },
+    {
+      "name": "Sam Thibault",
+      "ProfileName": "Sam Thibault",
+      "Role": "Management Member",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Gvi_vsZKIBWMbuTLs8Qmm_zwJZNkpHZh5og2CySpUg8Nybo07HXYTUE-Zi5Xmcnh1b0&usqp=CAU",
+      "bio": "(he/him) Source of Wisdom | Management Member"
+    },
+    {
+      "name": "Casper (Puffercat)",
+      "ProfileName": "Casper (Puffercat)",
+      "Role": "Designer",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Gvi_vsZKIBWMbuTLs8Qmm_zwJZNkpHZh5og2CySpUg8Nybo07HXYTUE-Zi5Xmcnh1b0&usqp=CAU",
+      "bio": "(he/him) The Second Design God"
+    },
+    {
+      "name": "Mashrur Kabir",
+      "ProfileName": "Mashrur Kabir",
+      "Role": "Founder of MTK News",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Gvi_vsZKIBWMbuTLs8Qmm_zwJZNkpHZh5og2CySpUg8Nybo07HXYTUE-Zi5Xmcnh1b0&usqp=CAU",
+      "bio": "(he/him) Mr. MTK"
+    },
+    {
+      "name": "Matthew P.",
+      "ProfileName": "Matthew P.",
+      "Role": "Member",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Gvi_vsZKIBWMbuTLs8Qmm_zwJZNkpHZh5og2CySpUg8Nybo07HXYTUE-Zi5Xmcnh1b0&usqp=CAU",
+      "bio": "(he/him) [redacted]"
+    },
+    {
+      "name": "Tyler",
+      "ProfileName": "Tyler",
+      "Role": "Editor?",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Gvi_vsZKIBWMbuTLs8Qmm_zwJZNkpHZh5og2CySpUg8Nybo07HXYTUE-Zi5Xmcnh1b0&usqp=CAU",
+      "bio": "(he/him) Great Editor"
+    }
+
+  ],
+  "items": [
+    {
+      "title": "Stoke: The Next Big Space Giant?",
+      "pubDate": "2023-11-17 00:00:00",
+      "link": "https://mtknews.studio/stoke-the-next-big-space-giant/",
+      "guid": "https://mtknews.studio/stoke-the-next-big-space-giant/",
+      "authors": [
+        "Mashrur Kabir"
+      ],
+      "thumbnail": "https://mtknews.studio/content/images/size/w600/2023/11/F7tGP6nasAAZzsu.jpg",
+      "description": "\n<blockquote>This article doesn't support this version of the app, please update to the latest version.</blockquote>\n",
+      "content": "\n<blockquote>This article doesn't support this version of the app, please update to the latest version.</blockquote>\n",
+      "ArticleBody": [
+        {
+          "type": "title2",
+          "content": "What is Stoke Space?"
+        },
+        {
+          "type": "paragraph",
+          "content": "<a href=\"https://en.wikipedia.org/wiki/Stoke_Space?ref=mtknews.studio\" >Stoke Space</a> was founded in 2020 by Andy Lapsa, a former Blue Origin employee, along with a few other fellow Blue Origin and SpaceX employees. The firm is based in Kent, Washington and currently has 85 employees. First founded on an integrated propulsion solution for reusable launch vehicle upper stages, the company is now developing a fully reusable medium-lift launch vehicle. Nova is the first launch vehicle to feature a fully-reusable second stage. The prosperous SpaceX's flourishing Falcon 9, in comparison, only reuses the first stage and the fairings."
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/size/w1000/2023/11/image-1.png",
+          "caption": "Image Source: <a href=\"https://www.teslarati.com/stoke-space-spacex-starship-raptor-eng?ref=mtknews.studio\" >Teslarati</a>"
+        },
+        {
+          "type": "paragraph",
+          "content": "<a href=\"https://www.stokespace.com/rocket/?ref=mtknews.studio\" >The Nova’s</a> first stage will be powered by seven methalox (LNG/LOX) powered full flow staged combustion cycle engines. Both the first and second stage will be capable of Falcon 9-style RTLS landings. Another major amenity of the Nova rocket is rapid turnaround time and minimal refurbishments. In other words, Stoke aims to make a single unit capable of being reused as fast as possible. THe startup currently aims for a turnaround time of less than 24 hours. In comparison, the Falcon 9 had a record turnaround time of about 4 days. The Nova rocket aims to significantly reduce costs with full reusability under high launch cadence."
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/size/w1000/2023/11/image-2.png",
+          "caption": "Image Source: <a href=\"https://mtknews.studio/stoke-the-next-big-space-giant/stokespace.com\" >Stoke Space</a>"
+        },
+        {
+          "type": "paragraph",
+          "content": "<a href=\"https://www.stokespace.com/stoke-spaces-next-development-test-series-hopper2/?ref=mtknews.studio\" >The Hopper</a> is a prototype of Nova’s reusable second stage. It features a capsule design with an active regeneratively cooled heat shield at its base. As its source of propulsion, it is powered by a hydrolox powered (LH2/LOX) single expander bleed cycle engine with 15 thrust chambers (will have 30 later on) for structural integrity. This engine is planned to be the first of its kind. On September 17th, 2023, the Hopper 2 performed a successful test flight, reaching an altitude of 30 feet while being in airborne for about 15 seconds before landing in its designated landing zone. Following this success, $100 million was raised for Stoke in a Series B funding round led by Industrious Ventures. Other major milestones the firm has reached in the past was a successful flight test of the reusable Vertical Takeoff Vertical Landing (VTVL), which uses differential throttling for attitude control."
+        },
+        {
+          "type": "paragraph",
+          "content": "<br>\n<a href=\"https://www.stokespace.com/update-on-hopper2-the-hopper-has-landed/?ref=mtknews.studio\" >According to Stoke Space</a>, it is the fastest company to go from initial funding to demonstrating an orbital-class VTVL rocket, the second company in the world to fly a prototype of a fully reusable upper stage rocket, and the third US company to develop a liquid hydrogen rocket engine."
+        }
+      ],
+      "enclosure": {
+        "link": "https://mtknews.studio/content/images/size/w600/2023/11/F7tGP6nasAAZzsu.jpg",
+        "credits": "Image Source: <a href=\"https://mtknews.studio/stoke-the-next-big-space-giant/www.stokespace.com\" >Stoke Space</a>"
+      },
+      "categories": [
+        "Space"
+      ]
+    },
+    {
+      "title": "Dell Latitude 5440 \"Review\" - Amazingly Boring.",
+      "pubDate": "2023-11-07 00:00:00",
+      "link": "https://mtknews.studio/dell-latitude-5440-review-amazingly-boring/",
+      "guid": "https://mtknews.studio/dell-latitude-5440-review-amazingly-boring/",
+      "authors": [
+        "Louie"
+      ],
+      "thumbnail": "https://mtknews.studio/content/images/size/w600/2023/11/Snapchat-2111079774-2.jpg",
+      "description": "\n<blockquote>This article doesn't support this version of the app, please update to the latest version.</blockquote>\n",
+      "content": "\n<blockquote>This article doesn't support this version of the app, please update to the latest version.</blockquote>\n",
+      "ArticleBody": [
+        {
+          "type": "paragraph",
+          "content": "When hearing about Dell Latitudes, most people see them as devices made for companies, and that's for a good reason, they are. You can certainly use one for personal stuff (like I do), but should you?"
+        },
+        {
+          "type": "title3",
+          "content": "Specs"
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/2023/11/image.png",
+          "alt": "Specs window showing my device specs.\nOS: Pop!_OS 22.04"
+        },
+        {
+          "type": "paragraph",
+          "content": "My unit has an i7-1355U CPU, 16GB of RAM, and a 1TB NVMe SSD. So far, it's been able to handle everything I threw at it with ease, as expected from a $1000 laptop. Keep in mind that it's not a gaming laptop by ANY means, though. If you're a serious gamer or a video editor, Intel Xe Graphics are just not enough."
+        },
+        {
+          "type": "paragraph",
+          "content": "Now let's get to some more subtle (but still interesting) features. The RAM is upgradable up to 64GB, and so is the SSD. Going over to the display, it's fine. Boasting a resolution of 1920x1080 with apparently 100% of the sRGB colorspace, it should be more than enough, for me anyway."
+        },
+        {
+          "type": "paragraph",
+          "content": "So, in conclusion, if you're a coder, like me, then it's great spec-wise. But if you're a serious gamer or a video editor, you should really consider another laptop with a proper GPU."
+        },
+        {
+          "type": "title3",
+          "content": "Design and I/O"
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/2023/11/IMG_3693.jpg",
+          "alt": "A side view of my laptop showing an Ethernet port, USB-A, and 2 USB-C ports\n"
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/2023/11/IMG_3694.jpg",
+          "alt": "A side view of my laptop showing an HDMI port, USB-A, and the headphone jack.\n"
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/2023/11/IMG_3695.jpg",
+          "alt": "A bottom view of the latitude 5440.\n"
+        },
+        {
+          "type": "paragraph",
+          "content": "The laptop's design is nothing too special. It's not too bulky but I wouldn't call it an ultrabook either, and it's completely made out of plastic, something that is definitely not favorable for a $1000 machine. On the plus side, though, its got a pretty good port selection. That being 2 USB-C ports capable of power delivery, 2 USB-A ports, Ethernet, and yes, a headphone jack. It also lacks an SD card slot."
+        },
+        {
+          "type": "paragraph",
+          "content": "Other variants of the Latitude 5440 include a SIM card slot, a smart card reader, and even an IR blaster, but my unit doesn't have those. It also has some other perks like the ability to block out the camera on a hardware level, a backlit keyboard, and a nice touchpad (in my opinion)."
+        },
+        {
+          "type": "title3",
+          "content": "Battery life"
+        },
+        {
+          "type": "paragraph",
+          "content": "Battery life isn't exactly a strong point for the Latitude 5440, or at least under Pop!_OS. With my usage, it lasts around 6 to 7 hours, which isn't exactly the best, but it's kind of expected with a 54 Wh battery powering the device. However, you might be able to get even more battery life depending on your specific usage and device configuration."
+        },
+        {
+          "type": "tip",
+          "content": "Battery life may be better (or worse) under Windows, but I haven't tested that."
+        },
+        {
+          "type": "title3",
+          "content": "Actual Performance"
+        },
+        {
+          "type": "paragraph",
+          "content": "Although not a beast by any stretch of the imagination, the Latitude 5440 can handle any daily task you throw at it. Be it web browsing, editing documents, coding, light gaming, or even serious development. However, keep in mind that the base model includes a 13th gen i5, 8GB of RAM, and 256GB of storage. It's not all sunshine and roses, though. Again, it doesn't have a dedicated GPU, so forget about heavy gaming or serious video editing."
+        },
+        {
+          "type": "title3",
+          "content": "Portability"
+        },
+        {
+          "type": "paragraph",
+          "content": "As a 14-inch laptop, it's decently portable compared to many other devices around. However, it's not that thin of a laptop. As for fan noise, When you're not pushing it too much, you should barely be able to hear any fan noise if at all, but it can get pretty loud sometimes."
+        },
+        {
+          "type": "title3",
+          "content": "Final Verdict"
+        },
+        {
+          "type": "paragraph",
+          "content": "At a price of around $1000, the Latitude 5440 is a solid, supposedly reliable, and VERY streamlined laptop. However, with other options, like the MacBook Air, existing at a similar price, it's tough to recommend for most people."
+        },
+        {
+          "type": "paragraph",
+          "content": "So, if you're looking for a laptop that feels familiar and isn't overly \"gimmicky\", maybe you should put this device on your list :)"
+        }
+      ],
+      "ArticleBody2": [
+        {
+          "type": "paragraph",
+          "content": "When hearing about Dell Latitudes, most people see them as devices made for companies, and that's for a good reason, they are. You can certainly use one for personal stuff (like I do), but should you?"
+        },
+        {
+          "type": "title4",
+          "content": "Specs"
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/2023/11/image.png",
+          "alt": "Specs window showing my device specs.\nOS: Pop!_OS 22.04"
+        },
+        {
+          "type": "paragraph",
+          "content": "My unit has an i7-1355U CPU, 16GB of RAM, and a 1TB NVMe SSD. So far, it's been able to handle everything I threw at it with ease, as expected from a $1000 laptop. Keep in mind that it's not a gaming laptop by ANY means, though. If you're a serious gamer or a video editor, Intel Xe Graphics are just not enough."
+        },
+        {
+          "type": "paragraph",
+          "content": "Now let's get to some more subtle (but still interesting) features. The RAM is upgradable up to 64GB, and so is the SSD. Going over to the display, it's fine. Boasting a resolution of 1920x1080 with apparently 100% of the sRGB colorspace, it should be more than enough, for me anyway."
+        },
+        {
+          "type": "paragraph",
+          "content": "So, in conclusion, if you're a coder, like me, then it's great spec-wise. But if you're a serious gamer or a video editor, you should really consider another laptop with a proper GPU."
+        },
+        {
+          "type": "title4",
+          "content": "Design and I/O"
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/2023/11/IMG_3693.jpg",
+          "alt": "A side view of my laptop showing an Ethernet port, USB-A, and 2 USB-C ports\n"
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/2023/11/IMG_3694.jpg",
+          "alt": "A side view of my laptop showing an HDMI port, USB-A, and the headphone jack.\n"
+        },
+        {
+          "type": "image",
+          "content": "https://mtknews.studio/content/images/2023/11/IMG_3695.jpg",
+          "alt": "A bottom view of the latitude 5440.\n"
+        },
+        {
+          "type": "paragraph",
+          "content": "The laptop's design is nothing too special. It's not too bulky but I wouldn't call it an ultrabook either, and it's completely made out of plastic, something that is definitely not favorable for a $1000 machine. On the plus side, though, its got a pretty good port selection. That being 2 USB-C ports capable of power delivery, 2 USB-A ports, Ethernet, and yes, a headphone jack. It also lacks an SD card slot."
+        },
+        {
+          "type": "paragraph",
+          "content": "Other variants of the Latitude 5440 include a SIM card slot, a smart card reader, and even an IR blaster, but my unit doesn't have those. It also has some other perks like the ability to block out the camera on a hardware level, a backlit keyboard, and a nice touchpad (in my opinion)."
+        },
+        {
+          "type": "title4",
+          "content": "Battery life"
+        },
+        {
+          "type": "paragraph",
+          "content": "Battery life isn't exactly a strong point for the Latitude 5440, or at least under Pop!_OS. With my usage, it lasts around 6 to 7 hours, which isn't exactly the best, but it's kind of expected with a 54 Wh battery powering the device. However, you might be able to get even more battery life depending on your specific usage and device configuration."
+        },
+        {
+          "type": "tip",
+          "content": "Battery life may be better (or worse) under Windows, but I haven't tested that."
+        },
+        {
+          "type": "title4",
+          "content": "Actual Performance"
+        },
+        {
+          "type": "paragraph",
+          "content": "Although not a beast by any stretch of the imagination, the Latitude 5440 can handle any daily task you throw at it. Be it web browsing, editing documents, coding, light gaming, or even serious development. However, keep in mind that the base model includes a 13th gen i5, 8GB of RAM, and 256GB of storage. It's not all sunshine and roses, though. Again, it doesn't have a dedicated GPU, so forget about heavy gaming or serious video editing."
+        },
+        {
+          "type": "title4",
+          "content": "Portability"
+        },
+        {
+          "type": "paragraph",
+          "content": "As a 14-inch laptop, it's decently portable compared to many other devices around. However, it's not that thin of a laptop. As for fan noise, When you're not pushing it too much, you should barely be able to hear any fan noise if at all, but it can get pretty loud sometimes."
+        },
+        {
+          "type": "title4",
+          "content": "Final Verdict"
+        },
+        {
+          "type": "paragraph",
+          "content": "At a price of around $1000, the Latitude 5440 is a solid, supposedly reliable, and VERY streamlined laptop. However, with other options, like the MacBook Air, existing at a similar price, it's tough to recommend for most people."
+        },
+        {
+          "type": "paragraph",
+          "content": "So, if you're looking for a laptop that feels familiar and isn't overly \"gimmicky\", maybe you should put this device on your list :)"
+        }
+      ],
+      "enclosure": {
+        "link": "https://mtknews.studio/content/images/size/w600/2023/11/Snapchat-2111079774-2.jpg",
+        "credits": "My Latitude 5440"
+      },
+      "categories": [
+        "Technology"
+      ]
+    }
+  ]
+}
